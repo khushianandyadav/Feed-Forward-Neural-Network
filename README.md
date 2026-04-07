@@ -6,7 +6,7 @@ It demonstrates data preprocessing, model building, training, evaluation, and vi
 
 ---
 
-## 📌 Features
+##  Features
 - Loads and explores the MNIST dataset (60,000 training and 10,000 test images of handwritten digits).
 - Preprocesses data by normalizing pixel values.
 - Builds a **3-layer feedforward neural network**:
@@ -20,7 +20,7 @@ It demonstrates data preprocessing, model building, training, evaluation, and vi
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```
 
 .
@@ -31,7 +31,7 @@ It demonstrates data preprocessing, model building, training, evaluation, and vi
 
 ---
 
-## 🚀 Requirements
+##  Requirements
 Make sure you have the following installed:
 
 - Python 3.8+
@@ -49,7 +49,7 @@ pip install tensorflow numpy matplotlib seaborn
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 1. Clone the repository:
 
@@ -65,7 +65,7 @@ pip install tensorflow numpy matplotlib seaborn
 
 ---
 
-## 📊 Results
+##  Results
 
 * The model achieves around **95–97% test accuracy** after training for 10 epochs (may vary).
 * Example training curves:
