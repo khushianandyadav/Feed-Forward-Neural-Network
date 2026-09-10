@@ -1,12 +1,12 @@
 ```markdown
-# Feedforward Neural Network on MNIST
+**# Feedforward Neural Network on MNIST**
 
 This project implements a simple **feedforward neural network** using TensorFlow and Keras to classify handwritten digits from the **MNIST dataset**.  
 It demonstrates data preprocessing, model building, training, evaluation, and visualization of results.
 
 ---
 
-##  Features
+**##  Features**
 - Loads and explores the MNIST dataset (60,000 training and 10,000 test images of handwritten digits).
 - Preprocesses data by normalizing pixel values.
 - Builds a **3-layer feedforward neural network**:
@@ -20,7 +20,7 @@ It demonstrates data preprocessing, model building, training, evaluation, and vi
 
 ---
 
-##  Project Structure
+**##  Project Structure**
 ```
 
 .
@@ -31,7 +31,7 @@ It demonstrates data preprocessing, model building, training, evaluation, and vi
 
 ---
 
-##  Requirements
+**##  Requirements**
 Make sure you have the following installed:
 
 - Python 3.8+
@@ -80,7 +80,7 @@ pip install tensorflow numpy matplotlib seaborn
 
 ---
 
-## 🖼️ Sample Prediction
+##  Sample Prediction
 
 The script visualizes a random test image and shows both the **predicted label** and the **actual label**.
 
