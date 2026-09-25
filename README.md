@@ -1,4 +1,4 @@
-##  Feedforward Neural Network on MNIST
+#  Feedforward Neural Network on MNIST
 
 This project implements a simple **feedforward neural network** using TensorFlow and Keras to classify handwritten digits from the **MNIST dataset**.  
 It demonstrates data preprocessing, model building, training, evaluation, and visualization of results.
