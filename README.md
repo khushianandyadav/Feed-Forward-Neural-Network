@@ -66,7 +66,7 @@ pip install tensorflow numpy matplotlib seaborn
 
 ##  Results
 
-* The model achieves around **95–97% test accuracy** after training for 10 epochs.
+* The model achieves around **95% test accuracy** after training for 10 epochs.
 * Training curves:
 
 *Model Accuracy*
