@@ -71,11 +71,11 @@ pip install tensorflow numpy matplotlib seaborn
 
 *Model Accuracy*
 
-* Shows increasing accuracy on training and validation sets.
+- Shows increasing accuracy on training and validation sets.
 
 *Model Loss*
 
-* Displays decreasing loss for both training and validation sets.
+- Displays decreasing loss for both training and validation sets.
 
 ---
 
