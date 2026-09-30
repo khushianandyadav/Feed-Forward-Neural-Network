@@ -53,7 +53,7 @@ pip install tensorflow numpy matplotlib seaborn
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/feedforward-neural-network.git
+   git clone https://github.com/khushianandyadav/feed-forward-neural-network.git
    cd feedforward-neural-network
    ```
 2. Run the script:
